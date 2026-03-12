@@ -1,3 +1,9 @@
+
+![604038359_17854410450596016_2471739046522951482_n](https://github.com/user-attachments/assets/b3c6535d-5b20-4bd3-adc2-f4d14b7b8dbd)
+
+
+
+
 💇‍♂️ Pappas Hår - AI-Powered E-commerce
 Pappas Hår är en modern e-handelsplattform för löshår som kombinerar en smidig shoppingupplevelse med den senaste AI-tekniken. Projektet är byggt med en FastAPI-backend och en React-frontend.
 
